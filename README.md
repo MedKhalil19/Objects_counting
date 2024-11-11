@@ -40,10 +40,13 @@ To get started with this project on your laptop, follow these steps:
 
 4. **Choose Your Counting Mode**  
    Select which counting mode you want to use (real-time, image, or video processing) and run the respective script.
+---
+
+⚠️ **Note**: Due to the size of the project video, I will be uploading it to my LinkedIn profile. Watch it on my LinkedIn to prove my work: [objects_counting's LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7261845336736808963/)
 
 ---
 
-⚠️ **Note**: Due to the size of the project video, I will be uploading it to my LinkedIn profile. Watch it on my LinkedIn to prove my work: [objects_counting's LinkedIn]([https://www.linkedin.com/feed/update/urn:li:activity:7261845336736808963/)]
+This should correctly display the clickable link to your LinkedIn video. Let me know if you need any further adjustments!
 
 ---
 
