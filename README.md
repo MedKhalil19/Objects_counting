@@ -43,7 +43,7 @@ To get started with this project on your laptop, follow these steps:
 
 ---
 
-⚠️ **Note**: Due to the size of the project video, I will be uploading it to my LinkedIn profile. Watch it on my LinkedIn to prove my work: [Khlifi Med Khalil's LinkedIn](https://www.linkedin.com/in/khlifi-medkhalil/)
+⚠️ **Note**: Due to the size of the project video, I will be uploading it to my LinkedIn profile. Watch it on my LinkedIn to prove my work: [objects_counting's LinkedIn]([https://www.linkedin.com/in/khlifi-medkhalil/](https://www.linkedin.com/feed/update/urn:li:activity:7261845336736808963/))
 
 ---
 
