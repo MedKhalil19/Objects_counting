@@ -17,6 +17,8 @@ The project is divided into four main components:
 4. **Integrated Interface (main.py)**  
    A user-friendly interface that brings together all functionalities: real-time, image, and video object counting. It allows users to easily select and switch between different modes, making the tool versatile and convenient to use.
 
+---
+
 ## Installation and Setup Instructions
 To get started with this project on your laptop, follow these steps:
 1. **Install Python 3.7.9**  
@@ -38,6 +40,12 @@ To get started with this project on your laptop, follow these steps:
 
 4. **Choose Your Counting Mode**  
    Select which counting mode you want to use (real-time, image, or video processing) and run the respective script.
+
+---
+
+⚠️ **Note**: Due to the size of the project video, I will be uploading it to my LinkedIn profile. Watch it on my LinkedIn to prove my work: [Khlifi Med Khalil's LinkedIn](https://www.linkedin.com/in/khlifi-medkhalil/)
+
+---
 
 ## How YOLOv8 Enhances Object Counting
 The project uses YOLOv8 (You Only Look Once, version 8), a state-of-the-art object detection framework. YOLOv8 is designed for speed and accuracy, which allows for real-time performance and high precision across diverse datasets. This makes it well-suited for complex applications, including vehicle detection and more general object counting tasks.
