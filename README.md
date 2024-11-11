@@ -1,9 +1,13 @@
-Object Counting Project
+#Object Counting Project
+
 Project Overview
+
 This project focuses on accurately counting objects in different contexts using deep learning techniques. It supports object detection and counting in real-time streams, images, and videos, making it versatile for various use cases such as vehicle and license plate detection.
+
 
 Project Components
 The project is divided into four main components:
+
 
 Real-time Object Counting
 This module uses live video streams (e.g., webcam feeds) to detect and count objects in real-time. It leverages optimized deep learning models for speed and accuracy.
